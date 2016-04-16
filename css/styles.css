@@ -1,0 +1,20 @@
+body {
+  background-color: #CCA26F;
+  color: #473013;
+}
+h1 {
+  background-color: #44819C;
+  //font-size: 4em;
+  line-height: 4em;
+  text-align: center;
+  //font-family: cursive;
+  border-radius: 25px;
+}
+
+div {
+  background-color: #00A0E9;
+}
+
+.btn {
+  background-color: #00AFFF;
+}
