@@ -5,7 +5,7 @@ $("#makePuzzle").submit(function(event) {
   var puzzleText=$("#startPhrase").val().split("");
 
   for(i=0; i<=puzzleText.length; i++) {
-    alert(puzzleText.length);
+    
     if(puzzleText[i] === "a") {
       puzzleText[i] = "-";
     } else if(puzzleText[i] === "e") {
