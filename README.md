@@ -1,21 +1,19 @@
-# [Word Puzzle](http://karenfreemansmith.github.io/wordpuzzle)
-![project screenshot](/img/screenshot.jpg)
+# Word Puzzle
+Version 0.0.1: April 16, 2016
+by [Karen Freeman-Smith](https://karenfreemansmith.github.io)
 
-__Version 1: April 16, 2016__
-## by [Karen Freeman-Smith](http://karenfreemansmith.github.io)
+### Technologies Used
+HTML, CSS, Bootstrap, JavaScript, jQuery
 
-### Description
-__*A webpage that removes vowels from phrase.*__
+![screenshot of project running](screenshot.png)
 
-Uses a for loop to find and replace vowels with '-' in a phrase.
-
-## Technologies Used
-HTML, CSS
+## Description
+*[Learn How To Program](http://learnhowtoprogram.com) Intro to Programming Week 2 Individual Project: A webpage that removes vowels from phrase.*
 
 ## Setup/Installation
-* [View on Github Pages](https://karenfreemansmith.github.io/EpicIntroWk1-PetWebsite)
+* [View on Github Pages](https://karenfreemansmith.github.io/LHP-IntroWk3-WordPuzzle)
 * _OR_
-* Clone diectory 
+* Clone directory
 * Open index.html in your favorite browser
 
 ## Support & Contact
